@@ -3146,4 +3146,8 @@ Wire Wire Line
 	3400 7100 3400 7200
 Wire Wire Line
 	14500 9550 14500 9900
+Text Label 3750 2700 0    50   ~ 0
+D1+
+Text Label 3750 2800 0    50   ~ 0
+D1-
 $EndSCHEMATC
