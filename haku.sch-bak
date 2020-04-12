@@ -3146,4 +3146,52 @@ Wire Wire Line
 	3400 7100 3400 7200
 Wire Wire Line
 	14500 9550 14500 9900
+Text Label 3750 2700 0    50   ~ 0
+D1+
+Text Label 3750 2800 0    50   ~ 0
+D1-
+Text GLabel 5100 2900 2    50   Input ~ 0
+LED_DIN
+Text GLabel 5100 1700 2    50   Input ~ 0
+Col0
+Text GLabel 5100 2000 2    50   Input ~ 0
+Col1
+Text GLabel 5100 1900 2    50   Input ~ 0
+Row6
+Text GLabel 5100 1800 2    50   Input ~ 0
+Row7
+Text GLabel 5100 4300 2    50   Input ~ 0
+Col3
+Text GLabel 5100 4200 2    50   Input ~ 0
+Row8
+Text GLabel 5100 4100 2    50   Input ~ 0
+Row9
+Text GLabel 5100 4600 2    50   Input ~ 0
+Col2
+Text GLabel 5100 3000 2    50   Input ~ 0
+Row0
+Text GLabel 5100 3100 2    50   Input ~ 0
+Row1
+Text GLabel 5100 4500 2    50   Input ~ 0
+Col6
+Text GLabel 5100 2700 2    50   Input ~ 0
+Col7
+Text GLabel 5100 4400 2    50   Input ~ 0
+Col5
+Text GLabel 5100 2600 2    50   Input ~ 0
+Col4
+Text GLabel 5100 3300 2    50   Input ~ 0
+Row2
+Text GLabel 5100 3500 2    50   Input ~ 0
+Row3
+Text GLabel 5100 2300 2    50   Input ~ 0
+Row4
+Text GLabel 5100 2200 2    50   Input ~ 0
+Row5
+Text GLabel 5100 3900 2    50   Input ~ 0
+IND_LED3
+Text GLabel 5150 3600 2    50   Input ~ 0
+IND_LED1
+Text GLabel 5100 2100 2    50   Input ~ 0
+IND_LED2
 $EndSCHEMATC
