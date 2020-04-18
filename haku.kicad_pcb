@@ -3319,7 +3319,7 @@
       (net 2 +5V))
     (pad 2 smd roundrect (at 1.4 0 90) (size 1.25 1.75) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.2)
       (net 88 VCC))
-    (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_1206_3216Metric.wrl
+    (model ${KISYS3DMOD}/Fuse.3dshapes/Fuse_1206_3216Metric.stp
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
