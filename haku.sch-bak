@@ -3190,7 +3190,7 @@ Text GLabel 5100 2200 2    50   Input ~ 0
 Row5
 Text GLabel 5100 3900 2    50   Input ~ 0
 IND_LED3
-Text GLabel 5150 3600 2    50   Input ~ 0
+Text GLabel 5100 3600 2    50   Input ~ 0
 IND_LED1
 Text GLabel 5100 2100 2    50   Input ~ 0
 IND_LED2
